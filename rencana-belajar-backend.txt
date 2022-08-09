@@ -1,0 +1,7 @@
+BELAJAR BACKEND
+- Pelajari php dasar
+- Pelajari OOP dasar
+- Belajar Database
+  * Menggunakan DBMS XAMPP
+- Belajar framework
+  * Menggunakan framework Laravel
