@@ -1,0 +1,5 @@
+BELAJAR BACKEND
+- Pelajari php dasar
+- Pelajari OOP dasar
+- Belajar Database
+- Belajar framework
