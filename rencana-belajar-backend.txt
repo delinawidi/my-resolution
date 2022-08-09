@@ -1,6 +1,7 @@
 BELAJAR BACKEND
 - Pelajari php dasar
 - Pelajari OOP dasar
+- Pelajari Dasar struktur data 
 - Belajar Database
   * Menggunakan DBMS XAMPP
 - Belajar framework
