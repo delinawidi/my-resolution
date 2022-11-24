@@ -1,2 +1,1 @@
-# my-resolution
-Resolusi untuk meningkatkan skill coding
+Dataset MBA
